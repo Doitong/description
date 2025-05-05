@@ -1,6 +1,8 @@
 # DoItOnG – AI-Powered Short Video Generator for Social Media
 
-![DoItOnG logo](https://postimg.cc/Sn4HR6cN)
+![DoItOnG logo](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Long%20logo2.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-05-04T07%3A12%3A36.334Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F658ff2d194394e10%2FLong%2520logo2.png%3FExpires%3D1841037156%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DNxQULkaWoD4W5IZKXYITUbgBsOatmKhwQagTSjOiT0AmqDB8hopE0eVgILFB4aKeRPa5z0WkiXP767Ye4IyVrKap8geBKBE9Klap7j-YGTMPxN9g5g8kilJzWVZLbUVGZ5y42UI1XAbJJ1OqraZkjKwVkeYQSF1O~LIBCHDlqO-sQ1XjdVYeGQuE6gZKbpi-QCXcrrASiKmPuVoLyWiGycO4ZbrNSVW6vB-VOCvIylxdRnxWkZzW8q3mnYcl5qNXSbCJ1ZJkcUK9o5cLoQg9BhFFrh2UsZJOVZ4~AuJrB-rPmrwnCENW0q3b1bEfhtpTGhk8udJvwyl9GPMjWKDDLQ__%22%7D)
+
+![Long logo2.png](<https://media-hosting.imagekit.io/658ff2d194394e10/Long%20logo2.png?Expires=1841037156&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NxQULkaWoD4W5IZKXYITUbgBsOatmKhwQagTSjOiT0AmqDB8hopE0eVgILFB4aKeRPa5z0WkiXP767Ye4IyVrKap8geBKBE9Klap7j-YGTMPxN9g5g8kilJzWVZLbUVGZ5y42UI1XAbJJ1OqraZkjKwVkeYQSF1O~LIBCHDlqO-sQ1XjdVYeGQuE6gZKbpi-QCXcrrASiKmPuVoLyWiGycO4ZbrNSVW6vB-VOCvIylxdRnxWkZzW8q3mnYcl5qNXSbCJ1ZJkcUK9o5cLoQg9BhFFrh2UsZJOVZ4~AuJrB-rPmrwnCENW0q3b1bEfhtpTGhk8udJvwyl9GPMjWKDDLQ__>)
 
 ---
 
