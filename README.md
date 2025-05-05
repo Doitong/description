@@ -1,6 +1,6 @@
 # DoItOnG – AI-Powered Short Video Generator for Social Media
 
-![DoItOnG logo](https://ibb.co/TqkBcV2y)
+![DoItOnG logo](https://postimg.cc/Sn4HR6cN)
 
 ---
 
@@ -9,7 +9,7 @@
 
 Whether you're a content creator, marketer, or just starting out, DoItOnG allows you to turn ideas into videos with voiceovers, visuals, lip sync, and subtitles — all in minutes and all inside your browser.
 
-![DoItOnG screenshot](https://ibb.co/CpGbF4Md)
+![DoItOnG screenshot](https://postimg.cc/f39Hvkcg)
 
 ---
 
